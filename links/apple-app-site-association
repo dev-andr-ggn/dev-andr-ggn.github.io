@@ -1,0 +1,13 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "6UQAD4B3U2.com.appsflyer.Device-Id",
+        "paths": [
+          "/links/*"
+        ]
+      }
+    ]
+  }
+}
